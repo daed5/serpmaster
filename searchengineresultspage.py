@@ -3,6 +3,7 @@ from pprint import pprint
 # Specify content type and form the request body
 headers = {'Content-Type': 'application/json'}
 job_params = {
+    'scraper': 'google_search',
     'q': 'restaurants near me',
     'domain': 'com',
     'parse': 'true',
