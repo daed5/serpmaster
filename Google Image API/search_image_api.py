@@ -5,7 +5,7 @@ from pprint import pprint
 headers = {'Content-Type': 'application/json'}
 job_params = {
   'scraper': 'google_search',
-  'tbm': 'isch'
+  'tbm': 'isch',
   'q': 'restaurants near me',
   'domain': 'com',
   'parse': 'true',
