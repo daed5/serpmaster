@@ -12,8 +12,6 @@ job_params = {
     'device':'desktop_chrome',
     'geo':'Boston,Massachusetts,United States',
     'locale':'en-us',
-    # 'page':'1',
-    # 'nfpr':'true',
 }
 
 # Post job and get response
