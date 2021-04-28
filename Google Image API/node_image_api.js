@@ -10,7 +10,7 @@ const params = {
   'geo': 'Boston,Massachusetts,United States',
   'locale': 'en-us',
   'page': '1',
-  'access_token': '2db49b6ad018e93e23f6b6904575ae71e1e6ef5b' //Your access token from SERPMaster
+  'access_token': 'ACCESS_TOKEN' //Your access token from SERPMaster
 }
 
 axios.get('https://rt.serpmaster.com/', {
