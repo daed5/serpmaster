@@ -1,3 +1,4 @@
 # Search-engine-scraper
-SERPMaster is a Google search result scraping tool that allows to get hyper-localized search results in JSON. 
-Scrape all SERP features from any Google produdct, (Google News, Google Shopping, etc.) from any browser, device, or location. 
+SERPMaster is a Google search result scraping tool that allows you to get hyper-localized search results in JSON. 
+
+Scrape all SERP features from Google product (Google News, Google Shopping, etc.) and enjoy a 100% delivery rate.
