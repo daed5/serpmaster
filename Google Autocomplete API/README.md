@@ -1,4 +1,3 @@
-# Search-engine-scraper
-SERPMaster is a Google search result scraping tool that allows you to get hyper-localized search results in JSON. 
+# Google Autocomplete API 
+This SERPMaster's API allows to scrape Google autocomplete suggestions and delivers real-time search engine data. 
 
-Scrape all SERP features from Google product (Google News, Google Shopping, etc.) and enjoy a 100% delivery rate.
