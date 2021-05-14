@@ -1,6 +1,6 @@
 # What Is SERPMaster? 
 
-SERPMaster is a scraping tool for collecting Google search result data on a large scale.
+SERPMaster is a scraping tool designed for collecting Google search result data on a large scale.
 
 - Hyper-localized data on a city, country, or coordinate level. 
 - Can scrape all SERP features (featured snippets, video carousels, top and bottom ads, etc.)
