@@ -4,9 +4,9 @@ SERPMaster's Google Autocomplete API allows you to scrape Google autocomplete su
 ## Table of Contents 
 How does our Google Autocomplete API work?
 
-Features
+[Features](#features)
 
-Getting started
+Getting Started
 
 Contact us
 
