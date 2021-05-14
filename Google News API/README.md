@@ -12,7 +12,7 @@ Contact us
 
 # How does our Google Image API work?
 
-Our Google News API provides scraped data from Google News as they are shown to visitors. Our users only have to select location, device, or browser parameters and we do data acquisition and delivery for them. 
+Our Google News API provides real-time Google News data as it is actually shown to internet users. As a customer, you only have to select location, device, or browser parameters and we do data acquisition and delivery for you. 
 
 # Features
 
