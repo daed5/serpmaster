@@ -24,4 +24,6 @@ SERPMaster is a scraping tool designed for collecting Google search result data 
 
 - [Google Shopping API](https://serpmaster.com/products/google-shopping-api/)
 
-To learn more how SERPMaster works, check out our [Full Walkthrough](https://serpmaster.com/walkthrough/) or [browse our documentation.](https://docs.serpmaster.com/docs/quick-start-guide) 
+# Learn more 
+
+To find out more about how SERPMaster works, check out our [Full Walkthrough](https://serpmaster.com/walkthrough/) or [browse our documentation.](https://docs.serpmaster.com/docs/quick-start-guide)
