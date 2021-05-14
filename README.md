@@ -10,6 +10,8 @@ SERPMaster is a scraping tool designed for collecting Google search result data 
 
 # SERPMaster APIs:
 
+SERPMaster can acquire and deliver data from multiple Google products: 
+
 - [Google Autocomplete API ](https://serpmaster.com/products/google-autocomplete-api/) 
 
 - [Google Image API](https://serpmaster.com/products/google-image-search-api/)
