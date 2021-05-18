@@ -2,7 +2,7 @@
 SERPMaster's Google Autocomplete API allows you to scrape Google autocomplete suggestions and delivers real-time search engine data. 
 
 ## Table of Contents 
-[How does our Google Autocomplete API work?](how-does-our-google-autocomplete-api-work?)
+[How does our Google Autocomplete API work](how-does-our-google-autocomplete-api-work)
 
 [Features](#features)
 
@@ -10,7 +10,7 @@ SERPMaster's Google Autocomplete API allows you to scrape Google autocomplete su
 
 [Contact us](#contact-us)
 
-# How does our Google Autocomplete API work?
+# How does our Google Autocomplete API work
 
 Our Google Search Suggestions API scrapes SERP data from any browser, device, or location. Submit a request and our scraper will deliver real-time data in raw HTML or structured JSON. 
 
