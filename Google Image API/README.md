@@ -7,15 +7,15 @@
 SERPMaster's Google Image Search API provides search result data from Google Images in raw HTML format. 
 
 ## Table of Contents 
-How does our Google Image API work? 
+[How Does it Work](how-does-it-work)
 
-Features 
+[Features](features)
 
-Getting Started
+[Getting Started](getting-started)
 
-Contact us
+[Contact Us](contact-us)
 
-# How does our Google Image API work?
+# How Does it Work
 
 Our Google Image API can acquire data SERP data from any browser, device, or location. Users only have to send requests to our endpoint and we deliver the data based on parameter values included in the request.
 
@@ -43,6 +43,6 @@ Here's how to get started with SERPMaster
 
 For more information, please take a look at our [Full Walkthrough.](https://serpmaster.com/walkthrough/)
 
-# Contact us 
+# Contact Us 
 
 To get in touch with our team, please drop a message at [support@serpmaster.com](support@serpmaster.com) 
