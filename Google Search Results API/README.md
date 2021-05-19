@@ -1,16 +1,21 @@
+<p align="center">
+    <a href="https://serpmaster.com/"><img src="https://serpmaster.com/static/a528fb5d522744dc3d2b2c1cbc4fcdfa/3f491/logo.webp" alt="serpmaster logo"></a>
+  </a>
+</p> 
+
 # Google Search API | SERPMaster 
 SERPMaster's Google Search API acquires and delivers data from Google search results on a large scale. 
 
 ## Table of Contents 
-How does our Google Search API work? 
+[How Does Our Google Search API Work?](how-does-our-google-search-api-work?)
 
-Features 
+[Features](features)
 
-Getting Started
+[Getting Started](getting-started)
 
-Contact us
+[Contact Us)(contact-us)
 
-# How does our Google Search API work? 
+# How Does Our Google Search API Work? 
 
 Our Google Search API retrieves and delivers scraped SERP data according on requests sent to our endpoint. Requests can be modified in order to retrieve specifc data based on location, device, browser and many other parameters.
 
@@ -39,6 +44,6 @@ Here's how to get started with SERPMaster
 
 For more information, please take a look at our [Full Walkthrough.](https://serpmaster.com/walkthrough/)
 
-# Contact us 
+# Contact Us 
 
 To get in touch with our team, please drop a message at [support@serpmaster.com](support@serpmaster.com) 
