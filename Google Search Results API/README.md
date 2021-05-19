@@ -13,7 +13,7 @@ SERPMaster's Google Search API acquires and delivers data from Google search res
 
 [Getting Started](getting-started)
 
-[Contact Us)(contact-us)
+[Contact Us](contact-us)
 
 # How Does Our Google Search API Work? 
 
