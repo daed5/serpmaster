@@ -1,16 +1,21 @@
+<p align="center">
+    <a href="https://serpmaster.com/"><img src="https://serpmaster.com/static/a528fb5d522744dc3d2b2c1cbc4fcdfa/3f491/logo.webp" alt="serpmaster logo"></a>
+  </a>
+</p>
+
 # Google Scholar API | SERPMaster 
 SERPMaster's Google Scholar acquires and delivers data from Google Scholar on a large scale. 
 
 ## Table of Contents 
-How does our Google Scholar API work? 
+[How Does our Google Scholar API Work?](how-does-our-google-scholar-api-work?)
 
-Features 
+[Features](features)
 
-Getting Started
+[Getting Started](getting-started)
 
-Contact us
+[Contact Us](contact-us)
 
-# How does our Google Scholar API work? 
+# How Does our Google Scholar API Work? 
 
 SERPMaster's Scholar API acquires and delivers SERP data and citations from Google Scholar. Data is provided based on custom requests sent to our endpoint by users. 
 
@@ -39,6 +44,6 @@ Here's how to get started with SERPMaster
 
 For more information, please take a look at our [Full Walkthrough.](https://serpmaster.com/walkthrough/)
 
-# Contact us 
+# Contact Us 
 
 To get in touch with our team, please drop a message at [support@serpmaster.com](support@serpmaster.com) 
