@@ -1,14 +1,19 @@
+<p align="center">
+    <a href="https://serpmaster.com/"><img src="https://serpmaster.com/static/a528fb5d522744dc3d2b2c1cbc4fcdfa/3f491/logo.webp" alt="serpmaster logo"></a>
+  </a>
+</p>
+
 # Google Shopping API | SERPMaster 
 SERPMaster's Google Shopping API retrieves and delivers pricing and other product data on a large scale. 
 
 ## Table of Contents 
-How does our Google Shopping API work? 
+[How Does Our Google Shopping API work?](how-does-our-google-shopping-api-work?)
 
 [Features](#features)
 
-Getting Started
+[Getting Started](getting-started)
 
-Contact us
+[Contact Us](contact-us)
 
 # How does our Google Shopping API work?
 
@@ -36,9 +41,8 @@ How to get started with our scraping tool
 
 3. Follow the guidelines our support team emails you and begin scraping.
 
-
 For more information, please take a look at our [Full Walkthrough.](https://serpmaster.com/walkthrough/)
 
-# Contact us 
+# Contact Us 
 
 To get in touch with our team, please drop a message at [support@serpmaster.com](support@serpmaster.com) 
