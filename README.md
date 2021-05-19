@@ -1,3 +1,8 @@
+<p align="center">
+    <a href="https://serpmaster.com/"><img src="https://serpmaster.com/static/a528fb5d522744dc3d2b2c1cbc4fcdfa/3f491/logo.webp" alt="serpmaster logo"></a>
+  </a>
+</p>
+
 # What Is SERPMaster? 
 
 SERPMaster is a scraping tool designed for collecting Google search result data on a large scale.
