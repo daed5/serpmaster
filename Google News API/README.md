@@ -1,10 +1,16 @@
+<p align="center">
+    <a href="https://serpmaster.com/"><img src="https://serpmaster.com/static/a528fb5d522744dc3d2b2c1cbc4fcdfa/3f491/logo.webp" alt="serpmaster logo"></a>
+  </a>
+</p>
+
+
 # Google News API | SERPMaster 
 SERPMaster's Google News API provides large-scale SERP data from Google News feed. 
 
 ## Table of Contents 
 How does our Google News API work? 
 
-Features 
+[Features](features)
 
 Getting Started
 
