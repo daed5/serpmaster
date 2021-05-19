@@ -1,3 +1,8 @@
+<p align="center">
+    <a href="https://serpmaster.com/"><img src="https://serpmaster.com/static/a528fb5d522744dc3d2b2c1cbc4fcdfa/3f491/logo.webp" alt="serpmaster logo"></a>
+  </a>
+</p>
+
 # Google Image Search API | SERPMaster 
 SERPMaster's Google Image Search API provides search result data from Google Images in raw HTML format. 
 
