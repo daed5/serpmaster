@@ -3,20 +3,19 @@
   </a>
 </p>
 
-
 # Google News API | SERPMaster 
 SERPMaster's Google News API provides large-scale SERP data from Google News feed. 
 
 ## Table of Contents 
-How does our Google News API work? 
+[How does our Google News API work?](how-does-our-google-news-api-work?)
 
 [Features](features)
 
-Getting Started
+[Getting Started](getting-started)
 
-Contact us
+[Contact Us](contact-us)
 
-# How does our Google Image API work?
+# How Does our Google Image API Work?
 
 Our Google News API provides real-time Google News data as it is actually shown to internet users. As a customer, you only have to select location, device, or browser parameters and we do data acquisition and delivery for you. 
 
@@ -45,6 +44,6 @@ Here's how to get started with SERPMaster
 
 For more information, please take a look at our [Full Walkthrough.](https://serpmaster.com/walkthrough/)
 
-# Contact us 
+# Contact Us 
 
 To get in touch with our team, please drop a message at [support@serpmaster.com](support@serpmaster.com) 
