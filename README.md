@@ -46,7 +46,7 @@ SERPMaster processes search requests in real-time. We take care of proxy managem
 
 1. To make a request, provide a value for the parameter "q" (search query) and enter your authentication details. 
 
-2. Based on your needs, you can customize your request and choose specific parameters, such as device, location, etc. Here’s a full list of the parameter values. 
+2. Based on your needs, you can customize your request and choose specific parameters, such as device, location, etc. [Here’s](https://docs.serpmaster.com/docs/parameter-values) a full list of the parameter values. 
 
 3. SERPMaster will then collect the required information from your target
 
@@ -63,7 +63,7 @@ SERPMaster processes search requests in real-time. We take care of proxy managem
 
 # Getting Started
 
-To get started with SERPMaster, head to our [pricing page](https://serpmaster.com/pricing/)and pick a plan. We’ll then send you your authentication details and you’ll be able to make your first request. 
+To get started with SERPMaster, head to our [pricing page](https://serpmaster.com/pricing/) and pick a plan. We’ll then send you your authentication details and you’ll be able to make your first request. 
 
 # Learn More 
 
