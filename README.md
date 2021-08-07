@@ -3,7 +3,7 @@
   </a>
 </p>
 
-# SERPMaster is a scraping tool that delivers real-time data from Google Search Engine Result Pages.
+SERPMaster is a scraping tool that delivers real-time data from Google Search Engine Result Pages.
 
 # List of Contents
 
