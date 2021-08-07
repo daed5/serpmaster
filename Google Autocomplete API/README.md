@@ -10,11 +10,10 @@ Google Autocomplete API | SERPMaster
 <p align="center">
 SERPMaster's Google Autocomplete API allows you to scrape Google autocomplete suggestions and delivers real-time search engine data. 
 
-
 ## List of Contents 
 - [What Is Google Autocomplete API](#what-is-google-autocomplete-api)
 
-- [What Data Does It Deliver?](#what-data-does-it-deliver)
+- [How Does It Work?](#how-does-it-work)
  
 - [Features](#features)
     
@@ -22,16 +21,23 @@ SERPMaster's Google Autocomplete API allows you to scrape Google autocomplete su
 
 # What Is Google Autocomplete API? 
 
-Our Google Search Suggestions API scrapes SERP data from any browser, device, or location. Submit a request and our scraper will deliver real-time data in raw HTML or structured JSON. 
+This Google Search Autocomplete API is a tool for scraping the lists of keyword suggestions Google gives after one types in a query.  
+    
+# How Does It Work? 
 
-# What Data Does It Deliver? 
-[..] 
+Here's how to send a request to our Google Search Suggestions API: 
+  
+<br> 1. Include the two mandatory parameters: "scraper": "google_suggest" and "q" for the desired search phrase. 
+<br> 2. Enter additional parameters if needed: e.g., location or browser. [Here](https://docs.serpmaster.com/docs/parameter-values) you can see parameter values further explained. 
+<br> 3. Receive ready-to-use keyword suggestions data. 
     
 # Features 
     
 - 100% Success Rate
+    
+- Used languages are Python, PHP, and JavaScript ? 
 
-- Ability to scrape all SERP features
+- Scrape rich results 
 
 - Structured JSON data
 
@@ -41,5 +47,6 @@ Our Google Search Suggestions API scrapes SERP data from any browser, device, or
 
 # How to Set Up and Use This Google Autocomplete API? 
     
-For more information, please take a look at our [Full Walkthrough.](https://serpmaster.com/walkthrough/)
-
+To get started with this Google scraper, head to our pricing page and pick a plan. We’ll then send you your authentication details and you’ll be able to make your first request. 
+    
+For more information on using this Google Auto Complete API, take a look at our [documentation.](https://docs.serpmaster.com/docs/google-autocomplete-api) 
