@@ -3,16 +3,21 @@
   </a>
 </p>
 
+<h2 align="center">
+SERPMaster
+</h2>
+
+<p align="center">
 SERPMaster is a scraping tool that delivers real-time data from Google Search Engine Result Pages.
 
 # List of Contents
 
-- What Is SERPMaster?
-- How Does It Work?
-- Features
-- Getting Started
-- Learn More
-- Contacts
+- [What Is SERPMaster?](#what-is-serpmaster)
+- [How Does It Work?](#how-does-it-work)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Learn More](#learn-more)
+- [Contacts](#contacts) 
 
 # What Is SERPMaster? 
 
@@ -40,14 +45,10 @@ For scraping data from different Google products, SERPMaster has these Google AP
 SERPMaster processes search requests in real-time. We take care of proxy management, CAPTHAs, retries, result localization and other data acquisition aspects, so you're returned with 100% accurate data in CSV, JSON, or HTML format.  
 
 **Here’s how it works on your end:** 
-
-1. To make a request, provide a value for the parameter "q" (search query) and enter your authentication details. 
-
-2. Based on your needs, you can customize your request and choose specific parameters, such as device, location, etc. [Here’s](https://docs.serpmaster.com/docs/parameter-values) a full list of the parameter values. 
-
-3. Our Google scraper will then collect the required information from your target.
-
-3. Receive ready-to-use Google SERP data. 
+<br> 1. To make a request, provide a value for the parameter "q" (search query) and enter your authentication details.
+<br> 2. Based on your needs, you can customize your request and choose specific parameters, such as device, location, etc. [Here’s](https://docs.serpmaster.com/docs/parameter-values) a full list of the parameter values. 
+<br> 3. Our Google scraper will then collect the required information from your target.
+<br> 4. Receive ready-to-use Google SERP data. 
 
 # Features
 
