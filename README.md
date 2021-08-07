@@ -42,7 +42,7 @@ To deliver data from different Google products, SERPMaster has these Google APIs
 
 SERPMaster processes search requests in real-time. We take care of proxy management, CAPTHAs, retries, result localization and other data acquisition aspects, so you're returned with 100% accurate data in CSV, JSON, or HTML format.  
 
-# Here’s how it works on your end: 
+**Here’s how it works on your end:** 
 
 1. To make a request, provide a value for the parameter "q" (search query) and enter your authentication details. 
 
