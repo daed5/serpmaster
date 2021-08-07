@@ -3,24 +3,32 @@
   </a>
 </p>
 
-# Google Autocomplete API | SERPMaster 
+<h2 align="center">
+Google Autocomplete API | SERPMaster
+</h2>
+
+<p align="center">
 SERPMaster's Google Autocomplete API allows you to scrape Google autocomplete suggestions and delivers real-time search engine data. 
 
-## Table of Contents 
-[How Does it Work](how-does-it-work)
 
-[Features](#features)
+## List of Contents 
+- [What Is Google Autocomplete API](#what-is-google-autocomplete-api)
 
-[Getting Started](#getting-started)
+- [What Data Does It Deliver?](#what-data-does-it-deliver)
+ 
+- [Features](#features)
+    
+- [How to Set Up and Use This Google Autocomplete API?](#how-to-set-up-and-use-this-google-autocomplete-api)
 
-[Contact Us](#contact-us)
-
-# How Does it Work
+# What Is Google Autocomplete API? 
 
 Our Google Search Suggestions API scrapes SERP data from any browser, device, or location. Submit a request and our scraper will deliver real-time data in raw HTML or structured JSON. 
 
-# Features
-
+# What Data Does It Deliver? 
+[..] 
+    
+# Features 
+    
 - 100% Success Rate
 
 - Ability to scrape all SERP features
@@ -31,19 +39,7 @@ Our Google Search Suggestions API scrapes SERP data from any browser, device, or
 
 - JavaScript rendering 
 
-# Getting Started 
-
-How to get started with our scraping tool 
-
-1. Go to [SERPMaster](https://serpmaster.com/) 
-
-2. Select a plan that works for you or start a free trial
-
-3. Follow the guidelines our support team emails you and begin scraping.
-
-
+# How to Set Up and Use This Google Autocomplete API? 
+    
 For more information, please take a look at our [Full Walkthrough.](https://serpmaster.com/walkthrough/)
 
-# Contact Us 
-
-To get in touch with our team, please drop a message at [support@serpmaster.com](support@serpmaster.com) 
