@@ -3,46 +3,49 @@
   </a>
 </p>
 
-# Google Shopping API | SERPMaster 
-SERPMaster's Google Shopping API retrieves and delivers pricing and other product data on a large scale. 
+<h2 align="center">
+Google Shopping API | SERPMaster
+</h2>
 
-## Table of Contents 
-[How Does Our Google Shopping API work?](how-does-our-google-shopping-api-work?)
+<p align="center">
+SERPMaster's Google Shopping Search API delivers pricing and other relevant product details from Google Shopping.
 
-[Features](#features)
+## List of Contents 
+- [What Is Google Shopping API?](#what-is-google-shopping-api)
 
-[Getting Started](getting-started)
+- [How Does It Work?](#how-does-it-work)
+ 
+- [Features](#features)
+    
+- [How to Get Started With This Google Shopping API](#how-to-get-started-with-this-google-shopping-api)
 
-[Contact Us](contact-us)
+# What Is Google Shopping API? 
 
-# How does our Google Shopping API work?
+SERPMaster's Google Merchant API delivers scraped product data from Google Shopping in real-time. Users can send highly customized requests to our endpoint - see the [Easy Integration](https://serpmaster.com/products/google-shopping-api/) section on our website. They can alter the location, device, browser and many other parameters according to their needs and we retrieve the Google Shopping result data for them.
+    
+# How Does It Work? 
 
-SERPMaster's Google Shopping API provides SERP data based on the requests sent by our users. Users can submit custom requests, choosing including location, device, browser settings – we retrieve and deliver data for them. 
-
-# Features
-
+**Here's how to send a request to our Google Product API:**
+<br> 1. Include the two mandatory parameters: `scraper=google_shopping_search` and `q=any search phrase` for the desired query. 
+<br> 2. Enter additional parameters if needed: e.g., location or browser. [Here](https://docs.serpmaster.com/docs/parameter-values) you can see parameter values further explained. 
+<br> 3. Receive ready-to-use product data. 
+    
+# Features 
+    
+- Scrape rich results
+    
 - 100% Success Rate
+    
+- Used languages: Python, PHP, and JavaScript 
 
-- Ability to scrape all SERP features
+- Scrape rich results 
 
-- 3 data delivery methods
--
+- Pay for succesful extractions only
+
 - Up to coordinate-level locations
 
-- 5 integration methods 
-
-# Getting Started 
-
-How to get started with our scraping tool 
-
-1. Go to [SERPMaster](https://serpmaster.com/) 
-
-2. Select a plan that works for you or start a free trial
-
-3. Follow the guidelines our support team emails you and begin scraping.
-
-For more information, please take a look at our [Full Walkthrough.](https://serpmaster.com/walkthrough/)
-
-# Contact Us 
-
-To get in touch with our team, please drop a message at [support@serpmaster.com](support@serpmaster.com) 
+# How to Get Started With This Google Shopping API 
+    
+To get started with our Google Shopping Result tool, head to our [pricing page](https://serpmaster.com/pricing) and pick a plan. Then, we’ll send you the authentication details and you’ll be able to make your first request. 
+    
+For more information on using this online shopping api, please check out our [documentation.](https://docs.serpmaster.com/docs/google-shopping-api) 
