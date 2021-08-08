@@ -22,6 +22,8 @@ SERPMaster is a scraping tool that delivers real-time data from Google Search En
 # What Is SERPMaster? 
 
 SERPMaster is a SERP scraping tool designed for acquiring large volumes of data from Google Search Result Pages. This scraper features multiple Google APIs, ensuring that the customers can access information from various Google products. We’re also able to acquire rich results, so both paid and organic search data are available on demand.
+    
+In this repository, you'll find code samples on how to collect data from Google SERPs hassle-free. All you need is a SERPMaster account and everything else - proxy management, CAPTCHAs, and IP rotation – will be taken care for you. Head over to our [pricing page](https://serpmaster.com/pricing/) and pick the best plan according to your scraping needs. 
 
 # How Does It Work? 
 
@@ -58,6 +60,7 @@ SERPMaster processes search requests in real-time. We take care of proxy managem
 - Data in CSV, JSON, and HTML 
 - CAPTHAs, retries, proxy management are taken care of
 - JavaScript rendering 
+- Python, JavaScript, PHP languages supported
 
 # Getting Started
 
