@@ -26,8 +26,8 @@ Our Google News Feed API allows people to retrieve SERP data from Google News. T
 # How Does It Work? 
 
 **Here's how to send a request to our News API:**
-<br> 1. Include these mandatory parameters: "scraper", "tbm", and "q" for the desired search phrase. 
-<br> 2. Enter additional parameters if needed: e.g., location or browser. [Here](https://docs.serpmaster.com/docs/parameter-values) you can see parameter values further explained. 
+<br> 1. Include these mandatory parameters: `scraper=google_search`, `tbm=nws`, and `q=any keyword` for a desired search term.
+<br> 2. Enter additional parameters if needed: e.g., location or browser. [Here](https://docs.serpmaster.com/docs/parameter-values) you can see parameter values further explained.
 <br> 3. Receive ready-to-use keyword suggestions data. 
     
 # Features 
