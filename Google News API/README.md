@@ -3,47 +3,49 @@
   </a>
 </p>
 
-# Google News API | SERPMaster 
-SERPMaster's Google News API provides large-scale SERP data from Google News feed. 
+<h2 align="center">
+Google News API | SERPMaster
+</h2>
 
-## Table of Contents 
-[How does our Google News API work?](how-does-our-google-news-api-work?)
+<p align="center">
+SERPMaster's Google News Search API allows to scrape large volumes of data from the Google News section. 
 
-[Features](features)
+## List of Contents 
+- [What Is Google News API?](#what-is-google-news-api)
 
-[Getting Started](getting-started)
+- [How Does It Work?](#how-does-it-work)
+ 
+- [Features](#features)
+    
+- [How to Get Started With This Google News API?](#how-to-get-started-with-this-google-news-api)
 
-[Contact Us](contact-us)
+# What Is Google News API? 
+    
+Our Google News Feed API allows people to retrieve SERP data from Google News. They can scrape the SERP data as it is shown to different internet users based on their location, device, or browser. Users simply send requests – [see the Integration section on our site](https://serpmaster.com/products/google-news-api), and we deliver the data.
+    
+# How Does It Work? 
 
-# How Does our Google Image API Work?
+**Here's how to send a request to our News API:**
+<br> 1. Include these mandatory parameters: "scraper", "tbm", and "q" for the desired search phrase. 
+<br> 2. Enter additional parameters if needed: e.g., location or browser. [Here](https://docs.serpmaster.com/docs/parameter-values) you can see parameter values further explained. 
+<br> 3. Receive ready-to-use keyword suggestions data. 
+    
+# Features 
+    
+- Structured JSON data 
+    
+- Rich result scraping
 
-Our Google News API provides real-time Google News data as it is actually shown to internet users. As a customer, you only have to select location, device, or browser parameters and we do data acquisition and delivery for you. 
+- 100% success rate
+    
+- Used languages: Python, PHP, and JavaScript 
 
-# Features
+- Up to coordinate-level locations
 
-- Hyper-localized data
+- JavaScript rendering 
 
-- Charged for successful extraction only
-
-- All SERP feature scraping
-
-- Easy project scaling
-
-- Any device or browser supported
-
-
-# Getting Started 
-
-Here's how to get started with SERPMaster
-
-1. Go to [SERPMaster](https://serpmaster.com/) 
-
-2. Select a plan that works for you or start a free trial
-
-3. Follow the guidelines our support team emails you and begin scraping.
-
-For more information, please take a look at our [Full Walkthrough.](https://serpmaster.com/walkthrough/)
-
-# Contact Us 
-
-To get in touch with our team, please drop a message at [support@serpmaster.com](support@serpmaster.com) 
+# How to Get Started With This Google News API? 
+    
+To get started with this Google scraper, please go to our [pricing page](https://serpmaster.com/pricing/) and choose a plan that suits your needs. Afterward, we’ll then send you the authentication details, and you’ll be able to make your first request. 
+    
+For more information on using this News Search API, take a look at our [documentation.](https://docs.serpmaster.com/docs/google-news-api) 
