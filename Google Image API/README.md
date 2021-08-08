@@ -26,7 +26,6 @@ SERPMaster Google Image API is a tool that delivers scraped SERP data from Googl
 # How Does It Work? 
 
 **Here's how to send a request to our Google Search Image API:**
-  
 <br> 1. Enter these mandatory parameters: "scraper", "tbm", and "q" for a desired search query.  
 <br> 2. Include additional parameters if needed: e.g., location or browser. [Here](https://docs.serpmaster.com/docs/parameter-values) you can see parameter values further explained. 
 <br> 3. Get ready-to-use Google Image SERP data. 
@@ -49,5 +48,4 @@ SERPMaster Google Image API is a tool that delivers scraped SERP data from Googl
     
 To retrieve Google Images Search Engine data, please head to our [pricing page](https://serpmaster.com/pricing/) and choose a plan that suits you best. Then, we'll send you authentication details over email and you'll be able to make your first request.
 
-    
 For more information on using this Google Search Images API, check out our [documentation.](https://docs.serpmaster.com/docs/google-image-api) 
