@@ -3,46 +3,51 @@
   </a>
 </p>
 
-# Google Image Search API | SERPMaster 
-SERPMaster's Google Image Search API provides search result data from Google Images in raw HTML format. 
+<h2 align="center">
+Google Image API | SERPMaster
+</h2>
 
-## Table of Contents 
-[How Does it Work](how-does-it-work)
+<p align="center">
+SERPMaster's Google Image API allows you to retrieve large volumes of Google Image SERP data. 
+    
+## List of Contents 
+- [What Is Google Image API](#what-is-google-Image-api)
 
-[Features](features)
+- [How Does It Work?](#how-does-it-work)
+ 
+- [Features](#features)
+    
+- [How to Set Up and Use This Google Image API?](#how-to-set-up-and-use-this-google-image-api)
 
-[Getting Started](getting-started)
+# What Is Google Image API? 
 
-[Contact Us](contact-us)
+SERPMaster Google Image API is a tool that delivers scraped SERP data from Google Images. 
+    
+# How Does It Work? 
 
-# How Does it Work
+Here's how to send a request to our Google Search Image API:
+  
+<br> 1. Enter these mandatory parameters: "scraper", "tbm", and "q" for a desired search query.  
+<br> 2. Include additional parameters if needed: e.g., location or browser. [Here](https://docs.serpmaster.com/docs/parameter-values) you can see parameter values further explained. 
+<br> 3. Get ready-to-use Google Image SERP data. 
+    
+# Features 
+    
+- 100% Success Rate
+    
+- Used languages are Python, PHP, and JavaScript ? 
 
-Our Google Image API can acquire data SERP data from any browser, device, or location. Users only have to send requests to our endpoint and we deliver the data based on parameter values included in the request.
+- Scrape rich results 
 
-# Features
+- Structured JSON data
 
-- Hyper-localized data
+- Up to coordinate-level locations
 
-- Ability to scrape all SERP features
+- JavaScript rendering 
 
-- Charged for successful extraction only
+# How to Set Up and Use This Google Search Image API? 
+    
+To retrieve Google Images Search Engine data, please head to our [pricing page](https://serpmaster.com/pricing/) and choose a plan that suits you best. Then, we'll send you authentication details over email and you'll be able to make your first request.
 
-- Any device or browser supported
-
-- Easy project scaling
-
-# Getting Started 
-
-Here's how to get started with SERPMaster
-
-1. Go to [SERPMaster](https://serpmaster.com/) 
-
-2. Select a plan that works for you or start a free trial
-
-3. Follow the guidelines our support team emails you and begin scraping.
-
-For more information, please take a look at our [Full Walkthrough.](https://serpmaster.com/walkthrough/)
-
-# Contact Us 
-
-To get in touch with our team, please drop a message at [support@serpmaster.com](support@serpmaster.com) 
+    
+For more information on using this Google Search Images API, check out our [documentation.](https://docs.serpmaster.com/docs/google-image-api) 
