@@ -41,6 +41,8 @@ Use our Python Google Search API to get reliable, real-time search engine data i
 - Easy project scaling 
     
 - Supports any device or browser
+    
+- Multiple Google APIs: Google Search API, Google News API, and [more](https://serpmaster.com/) 
 
 # How to Get Started With This Google Search API
     
