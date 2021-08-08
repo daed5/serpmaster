@@ -64,7 +64,7 @@ SERPMaster processes search requests in real-time. We take care of proxy managem
 
 # Getting Started
 
-To get started with this Google scraper, first, choose a plan that matches the size of your project (here.)[https://serpmaster.com/pricing/] We’ll then send you your authentication details and you’ll be able to make your first request. 
+To get started with this Google scraper, first, choose a plan that matches the size of your project [here.](https://serpmaster.com/pricing/) We’ll then send you your authentication details and you’ll be able to make your first request. 
 
 # Learn More 
 
