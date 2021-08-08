@@ -42,7 +42,7 @@ This Google Search Autocomplete API is a tool for scraping the lists of keyword 
 
 - Up to coordinate-level locations
 
-- JavaScript rendering 
+- 1-year old historical keyword data 
 
 # How to Get Started With This Google Autocomplete API
     
