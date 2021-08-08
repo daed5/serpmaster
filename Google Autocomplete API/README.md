@@ -11,13 +11,13 @@ Google Autocomplete API | SERPMaster
 SERPMaster's Google Autocomplete API allows you to scrape Google autocomplete suggestions and delivers real-time search engine data. 
 
 ## List of Contents 
-- [What Is Google Autocomplete API](#what-is-google-autocomplete-api)
+- [What Is Google Autocomplete API?](#what-is-google-autocomplete-api)
 
 - [How Does It Work?](#how-does-it-work)
  
 - [Features](#features)
     
-- [How to Set Up and Use This Google Autocomplete API?](#how-to-set-up-and-use-this-google-autocomplete-api)
+- [How to Get Started With This Google Autocomplete API](#how-to-get-started-with-this-google-autocomplete-api)
 
 # What Is Google Autocomplete API? 
 
@@ -44,8 +44,8 @@ This Google Search Autocomplete API is a tool for scraping the lists of keyword 
 
 - JavaScript rendering 
 
-# How to Set Up and Use This Google Autocomplete API? 
+# How to Get Started With This Google Autocomplete API
     
-To get started with this Google scraper, head to our pricing page and pick a plan. We’ll then send you your authentication details and you’ll be able to make your first request. 
+To get started with our Google Autocomplete API, head to our [pricing page](https://serpmaster.com/pricing) and pick a plan. We’ll then send you your authentication details and you’ll be able to make your first request. 
     
 For more information on using this Google Auto Complete API, take a look at our [documentation.](https://docs.serpmaster.com/docs/google-autocomplete-api) 
