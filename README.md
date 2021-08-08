@@ -60,7 +60,7 @@ SERPMaster processes search requests in real-time. We take care of proxy managem
 - Data in CSV, JSON, and HTML 
 - CAPTHAs, retries, proxy management are taken care of
 - JavaScript rendering 
-- Python, JavaScript, PHP languages supported
+- Python, JavaScript, PHP languages  
 
 # Getting Started
 
