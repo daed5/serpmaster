@@ -35,7 +35,7 @@ Here's how to send a request to our Google Search Suggestions API:
     
 - 100% Success Rate
     
-- Used languages are Python, PHP, and JavaScript ? 
+- Used languages: Python, PHP, and JavaScript 
 
 - Scrape rich results 
 
