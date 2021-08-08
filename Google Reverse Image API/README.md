@@ -3,47 +3,51 @@
   </a>
 </p>
 
-# Google Reverse Image API | SERPMaster 
-SERPMaster's Reverse Image API allows to get Google SERP results for image search. 
+<h2 align="center">
+Google Reverse Image API | SERPMaster
+</h2>
 
-## Table of Contents 
-[How Does our Google Reverse Image API Work?](how-does-our-google-reverse-image-api-work?)
+<p align="center">
+SERPMaster's Google Reverse Image API 
 
-[Features](features)
+## List of Contents 
+- [What Is Google Reverse Image Search API?](#what-is-google-reverse-image-search-api)
 
-[Getting Started](getting-started)
+- [How Does It Work?](#how-does-it-work)
+ 
+- [Features](#features)
+    
+- [How to Get Started With This Reverse Image Search API?](#how-to-get-started-with-this-reverse-image-search-api) 
 
-[Contact Us](contact-us)
+# What Is Google Reverse Image Search API? 
 
-# How Does our Reverse Image API work? 
+SERPMaster’s Google Reverse Image Search API delivers image data from search engine result pages, or SERPs. The data can be adjusted according to the user's requirements – send highly customizable requests to our endpoint and get the specific data needed.
+    
+# How Does It Work? 
 
-SERPMaster’s Google Reverse Image Search API acquires search engine data based on your selected location, browser, and device parameters. Users can send highly customizable requests to our endpoint and our scraper will retrieve the data and deliver it in HTML or JSON.
+**Here's how to send a request to our Google Reverse Picture API:**
+<br> 1. Include these mandatory parameters: `scraper=google_images` and `q=image URL` for the desired search phrase. 
+<br> 2. Enter additional parameters if needed: e.g., location or browser. [Here](https://docs.serpmaster.com/docs/parameter-values) you can see parameter values further explained. 
+<br> 3. Receive ready-to-use image data from Google SERPs.
+    
+# Features 
+    
+- Real-time, cost-effective data  
+    
+- 100% Success Rate
+    
+- Used languages: Python, PHP, and JavaScript 
 
-# Features
+- Scrape rich results 
 
 - Structured JSON data
 
-- Up to coordinate-level geolocations
+- Up to coordinate-level locations
 
-- Charged for successful extraction only
+- Real-time, cost-effective data 
 
-- All SERP feature scraping
-
-- Easy project scaling
-
-
-# Getting Started 
-
-Here's how to get started with SERPMaster
-
-1. Go to [SERPMaster](https://serpmaster.com/) 
-
-2. Select a plan that works for you or start a free trial
-
-3. Follow the guidelines our support team emails you and begin scraping.
-
-For more information, please take a look at our [Full Walkthrough.](https://serpmaster.com/walkthrough/)
-
-# Contact Us 
-
-To get in touch with our team, please drop a message at [support@serpmaster.com](support@serpmaster.com) 
+# How to Get Started With This Reverse Image Search API?
+    
+To get started with our photo reverse Google API, visit our [pricing page](https://serpmaster.com/pricing/) and choose a plan according to your needs. Afterwards, we’ll then email you your authentication details and you’ll be able to make your first request. 
+    
+For more information on using this Google Reverse Picture API, please see our [documentation.](https://docs.serpmaster.com/docs/google-reverse-image-search-api)
