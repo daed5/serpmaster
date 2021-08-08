@@ -21,7 +21,7 @@ SERPMaster's Google Autocomplete API allows you to scrape Google autocomplete su
 
 # What Is Google Autocomplete API? 
 
-This Google Search Autocomplete API is a tool for scraping the lists of keyword suggestions Google gives after one types in a query.  
+This Google Search Autocomplete API is a tool for scraping the lists of keyword suggestions Google gives after one types in a query. As a customer, you just simply have to send a request to our endpoint – see the [Integration section](https://serpmaster.com/products/google-image-search-api/) on our site. You're also able to specify the data needed and retrieve it from any location, device, or browser.
     
 # How Does It Work? 
 
