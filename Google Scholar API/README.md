@@ -3,47 +3,49 @@
   </a>
 </p>
 
-# Google Scholar API | SERPMaster 
-SERPMaster's Google Scholar acquires and delivers data from Google Scholar on a large scale. 
+<h2 align="center">
+Google Scholar API | SERPMaster
+</h2>
 
-## Table of Contents 
-[How Does our Google Scholar API Work?](how-does-our-google-scholar-api-work?)
+<p align="center">
+SERPMaster's Google Scholar API delivers data from Google Scholar on a large scale. 
 
-[Features](features)
+## List of Contents 
+- [What Is Google Scholar API?](#what-is-google-scholar-api)
 
-[Getting Started](getting-started)
+- [How Does It Work?](#how-does-it-work)
+ 
+- [Features](#features)
+    
+- [How to Get Started With This Google Scholar API](#how-to-get-started-with-this-google-scholar-api)
 
-[Contact Us](contact-us)
+# What Is Google Scholar API?
+    
+Our Google Scholar API is a tool that delivers scraped SERP data and citations from Google Scholar. Data is delivered based on highly customizable requests sent to our endpoint by users – please see the [Easy Integration](#https://serpmaster.com/products/google-scholar-api/) section on our site. 
+    
+# How Does It Work? 
 
-# How Does our Google Scholar API Work? 
+**Here's how to send a request to our Google Scholar tool:**
+<br> 1. Include these mandatory parameters: `scraper=google`, and `url=Any Google Scholar URL`, for example -https://scholar.google.com/scholar?hl=en&q=einstein&btnG=&as_sdt=1%2C5&as_sdtp= 
+<br> 2. Enter additional parameters if needed: e.g., location or browser. [Here](https://docs.serpmaster.com/docs/parameter-values) you can see parameter values further explained
+<br> 3. Receive ready-to-use Google Scholar data. 
+    
+# Features 
+    
+- Charged for successful extractions only
+    
+- Rich result scraping
 
-SERPMaster's Scholar API acquires and delivers SERP data and citations from Google Scholar. Data is provided based on custom requests sent to our endpoint by users. 
+- 1on1 personal support
+    
+- Used languages: Python, PHP, and JavaScript 
 
-# Features
+- Up to coordinate-level locations
 
-- Up to coordinate-level geolocations 
+- Supports any device or browser 
 
-- All SERP feature scraping
-
-- Structured JSON data 
-
-- Easy project scaling
-
-- Any device or browser supported
-
-
-# Getting Started 
-
-Here's how to get started with SERPMaster
-
-1. Go to [SERPMaster](https://serpmaster.com/) 
-
-2. Select a plan that works for you or start a free trial
-
-3. Follow the guidelines our support team emails you and begin scraping.
-
-For more information, please take a look at our [Full Walkthrough.](https://serpmaster.com/walkthrough/)
-
-# Contact Us 
-
-To get in touch with our team, please drop a message at [support@serpmaster.com](support@serpmaster.com) 
+# How to Get Started With This Google Scholar API
+    
+To get started with our Google Scholar tool, please visit to our [pricing page](https://serpmaster.com/pricing/) and choose a subscription that suits your needs. Then, we’ll email you the authentication details, and you’ll be able to make your first request. 
+    
+For more information on this Google scraping service provider, take a look at our [documentation.](https://docs.serpmaster.com/docs/google-scholar-api)
