@@ -47,7 +47,7 @@ For scraping data from different Google products, SERPMaster has these Google AP
 SERPMaster processes search requests in real-time. We take care of proxy management, CAPTHAs, retries, result localization and other data acquisition aspects, so you're returned with 100% accurate data in CSV, JSON, or HTML format.  
 
 **Here’s how it works on your end:** 
-<br> 1. To make a request, provide a value for the parameter "q" (search query) and enter your authentication details.
+<br> 1. To make a request, provide a value for the parameter `q=search query` and enter your authentication details. You may need to include additional mandatory parameters depending on which API you'll be using. 
 <br> 2. Based on your needs, you can customize your request and choose specific parameters, such as device, location, etc. [Here’s](https://docs.serpmaster.com/docs/parameter-values) a full list of the parameter values. 
 <br> 3. Our Google scraper will then collect the required information from your target.
 <br> 4. Receive ready-to-use Google SERP data. 
@@ -64,7 +64,7 @@ SERPMaster processes search requests in real-time. We take care of proxy managem
 
 # Getting Started
 
-To get started with this Google scraper, head to our [pricing page](https://serpmaster.com/pricing/) and pick a plan. We’ll then send you your authentication details and you’ll be able to make your first request. 
+To get started with this Google scraper, first, choose a plan that matches the size of your project (here.)[https://serpmaster.com/pricing/] We’ll then send you your authentication details and you’ll be able to make your first request. 
 
 # Learn More 
 
