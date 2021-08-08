@@ -11,22 +11,22 @@ Google Image API | SERPMaster
 SERPMaster's Google Image API allows you to retrieve large volumes of Google Image SERP data. 
     
 ## List of Contents 
-- [What Is Google Image API](#what-is-google-Image-api)
+- [What Is Google Image API?](#what-is-google-image-api)
 
 - [How Does It Work?](#how-does-it-work)
  
 - [Features](#features)
     
-- [How to Set Up and Use This Google Image API?](#how-to-set-up-and-use-this-google-image-api)
+- [How to Get Started With This Google Search Image API?](#how-to-get-started-with-this-google-search-image-api)  
 
 # What Is Google Image API? 
 
-SERPMaster Google Image API is a tool that delivers scraped SERP data from Google Images. 
+SERPMaster Google Image API is a tool that delivers scraped SERP data from Google Images. As a users, you simply have to send requests [see the Integration section on our site](https://serpmaster.com/products/google-image-search-api/) to our endpoint, and we deliver the data based on parameter values included in the initial request.
     
 # How Does It Work? 
 
 **Here's how to send a request to our Google Search Image API:**
-<br> 1. Enter these mandatory parameters: "scraper", "tbm", and "q" for a desired search query.  
+<br> 1. Enter these mandatory parameters: `scraper=google_search`, `tbm=isch`, and `q=any search term` for the desired search query.
 <br> 2. Include additional parameters if needed: e.g., location or browser. [Here](https://docs.serpmaster.com/docs/parameter-values) you can see parameter values further explained. 
 <br> 3. Get ready-to-use Google Image SERP data. 
     
@@ -44,7 +44,7 @@ SERPMaster Google Image API is a tool that delivers scraped SERP data from Googl
 
 - JavaScript rendering 
 
-# How to Set Up and Use This Google Search Image API? 
+# How to Get Started With This Google Search Image API? 
     
 To retrieve Google Images Search Engine data, please head to our [pricing page](https://serpmaster.com/pricing/) and choose a plan that suits you best. Then, we'll send you authentication details over email and you'll be able to make your first request.
 
