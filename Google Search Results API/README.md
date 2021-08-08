@@ -1,49 +1,49 @@
 <p align="center">
     <a href="https://serpmaster.com/"><img src="https://serpmaster.com/static/a528fb5d522744dc3d2b2c1cbc4fcdfa/3f491/logo.webp" alt="serpmaster logo"></a>
   </a>
-</p> 
+</p>
 
-# Google Search API | SERPMaster 
-SERPMaster's Google Search API acquires and delivers data from Google search results on a large scale. 
+<h2 align="center">
+Google Search API | SERPMaster
+</h2>
 
-## Table of Contents 
-[How Does Our Google Search API Work?](how-does-our-google-search-api-work?)
+<p align="center">
+SERPMaster's Google Search API is a tool that delivers scraped search engine data based on the request sent to our endpoint. 
 
-[Features](features)
+## List of Contents 
+- [What Is Google Search API?](#what-is-google-search-api)
 
-[Getting Started](getting-started)
+- [How Does It Work?](#how-does-it-work)
+ 
+- [Features](#features)
+    
+- [How to Get Started With This Google Search API](#how-to-get-started-with-this-google-search-api)
 
-[Contact Us](contact-us)
+# What Is Google Search API? 
 
-# How Does Our Google Search API Work? 
+Use our Python Google Search API to get reliable, real-time search engine data in  CSV, JSON, or HTML formats. This Google Search Python API allows to scrape data from any location, device, and browser – see the [Easy Integration](https://serpmaster.com/products/google-search-api/) section on our site for more details. 
+    
+# How Does It Work? 
 
-Our Google Search API retrieves and delivers scraped SERP data according on requests sent to our endpoint. Requests can be modified in order to retrieve specifc data based on location, device, browser and many other parameters.
+**Here's how to send a request to our Google Search REST API** 
+<br> 1. Include this mandatory parameter: `q=any keyword` for the desired search term.
+<br> 2. Enter additional parameters if needed: e.g., location or browser. [Here](https://docs.serpmaster.com/docs/parameter-values) you can see parameter values further explained. 
+<br> 3. Receive ready-to-use Google search result page data. 
+    
+# Features 
 
-# Features
+- Hyper-local data
+    
+- Used languages: Python, PHP, and JavaScript 
 
-- Structured JSON data 
-
-- Can scrape all SERP features
-
-- Country, city, or coordinate-level locations
-
-- Easy project scaling
-
+- Scrape rich results 
+    
+- Easy project scaling 
+    
 - Supports any device or browser
 
-
-# Getting Started 
-
-Here's how to get started with SERPMaster
-
-1. Go to [SERPMaster](https://serpmaster.com/) 
-
-2. Select a plan that works for you or start a free trial
-
-3. Follow the guidelines our support team emails you and begin scraping.
-
-For more information, please take a look at our [Full Walkthrough.](https://serpmaster.com/walkthrough/)
-
-# Contact Us 
-
-To get in touch with our team, please drop a message at [support@serpmaster.com](support@serpmaster.com) 
+# How to Get Started With This Google Search API
+    
+First, please see the Google search API pricing [here](https://serpmaster.com/pricing) and pick the best plan for you. We’ll then email you the authentication details and you’ll be able to make your first request.
+    
+For more information on using Google Search API by SERPMaster, take a look at our [documentation.](https://docs.serpmaster.com/docs/google-search-api) 
