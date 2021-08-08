@@ -25,8 +25,7 @@ This Google Search Autocomplete API is a tool for scraping the lists of keyword 
     
 # How Does It Work? 
 
-Here's how to send a request to our Google Search Suggestions API: 
-  
+**Here's how to send a request to our Google Search Suggestions API:**
 <br> 1. Include the two mandatory parameters: "scraper": "google_suggest" and "q" for the desired search phrase. 
 <br> 2. Enter additional parameters if needed: e.g., location or browser. [Here](https://docs.serpmaster.com/docs/parameter-values) you can see parameter values further explained. 
 <br> 3. Receive ready-to-use keyword suggestions data. 
